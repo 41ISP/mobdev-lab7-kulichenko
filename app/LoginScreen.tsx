@@ -14,12 +14,16 @@ const LoginScreen = () =>{
     }
     return(
         <View>
-            <Input value = {input} OnChangeText></Input>
+            
         </View>
     )
 
     
 }
+
+//const styles = StyleSheet.create{(
+
+//)}
 
 
 

@@ -1,6 +1,5 @@
-export interface iContacts {
+export interface IContacts {
     id: string,
     name: string,
-    lastname: string,
-    avatar: ImageBitmap
+    lastname: string
 }

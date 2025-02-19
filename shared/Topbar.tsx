@@ -38,6 +38,9 @@ const styles = StyleSheet.create({
         borderWidth: 1,
         borderColor: "#000000",
         alignItems: 'center',
+    },
+    text: {
+        fontSize: 20 
     }
 })
 export default Topbar
